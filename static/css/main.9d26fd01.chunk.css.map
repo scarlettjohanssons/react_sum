@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AACA,SACE,YAAa,CACb,WAAY,CACZ,qBAAsB","file":"main.9d26fd01.chunk.css","sourcesContent":["// styles go here\r\n.wrapper {\r\n  height: 100px;\r\n  width: 100px;\r\n  background-color: #000;\r\n}\r\n"]}
